@@ -23,3 +23,6 @@ To unnecessarily complex layouts like:
 
 ![](https://github.com/deven98/flutter_randomize/blob/master/screenshot_3.png)
 
+NOTE: A library for English words is used in this app. Words are randomly retrieved in the layout.
+In some cases, unfortunate words/ word pairs may be generated. These are simply by chance and is not
+intentional in any way.
